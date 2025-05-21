@@ -1,5 +1,5 @@
 
-## Apdding line for Feature
+## Adding line for Feature
 ## Application Details
 |               |
 | ------------- |
